@@ -11,7 +11,7 @@
 qnts_alunos = int(input("Digite a quantidades de alunos: "))
 
 
-#armazena os nomes, notas, medias e o status
+#armazena os nomes, notas, medias e o status dentro de uma lista
 nomes = []
 notas1 = []
 notas2 = []
